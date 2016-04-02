@@ -21,7 +21,8 @@
   "homepage": "https://github.com/dtran39/dataviz#readme",
   "dependencies": {
     "react": "^0.14.8",
-    "react-dom": "^0.14.8"
+    "react-dom": "^0.14.8",
+    "react-google-maps": "^4.9.1"
   },
   "devDependencies": {
     "babel-core": "^6.7.4",
