@@ -1,0 +1,24 @@
+{
+  "name": "Datavis",
+  "version": "1.0.0",
+  "description": "Data visualization project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+ 
+  },
+  "author": "Duc Tran",
+  "license": "ISC",
+  "bugs": {
+  },
+  "dependencies": {
+    "react": "^0.14.1"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  }
+}

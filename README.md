@@ -1,1 +1,1 @@
-Datavisualization project
+Data visualization project
